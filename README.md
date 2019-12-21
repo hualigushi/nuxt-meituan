@@ -11,7 +11,7 @@
 ###  本地启后台服务 
 
 1.  开启mongodb
-2. 导入数据  dbs文件夹 `mongoimport -d student -c areas areas.dat`
+2. 导入数据  dbs文件夹 `mongo import -d student -c areas areas.dat`
 3. 开启redis
 
 
