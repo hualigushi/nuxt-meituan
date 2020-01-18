@@ -22,6 +22,7 @@
 
 4. 修改 `server/dbs/config.js`   `requestUrl`路径为 `localhost`
 
+
 #### Nuxt项目Koa代码中支持import语法
 ```
 1、更改package.json中的启动脚本 【在后面加上 --exec babel-node】
